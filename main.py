@@ -5,7 +5,6 @@ import random
 pygame.init()
 shots = 10
 
-
 # Images
 icon = pygame.image.load("Images/icon.png")
 background = pygame.image.load("Images/bg.jpg")
